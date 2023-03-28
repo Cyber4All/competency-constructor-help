@@ -6,3 +6,5 @@ parent: Competency Constructor Help
 ---
 # Search Competencies
 ## Searching Your Competencies
+
+- Enter a query and filter by author and/or date

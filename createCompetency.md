@@ -6,3 +6,11 @@ parent: Competency Constructor Help
 ---
 # Create Competency
 ## Create a New Competency
+
+- Audience
+- Behavior
+- Condition
+- Degree
+- Documentation
+- Employability
+- Notes

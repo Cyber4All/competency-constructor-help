@@ -6,3 +6,6 @@ parent: Competency Constructor Help
 ---
 # Reset Password
 ## Resetting Your Password
+
+- Click reset password
+- Enter your email
