@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: Reset Password
@@ -9,3 +10,6 @@ parent: Competency Constructor Help
 
 - Click reset password
 - Enter your email
+=======
+
+>>>>>>> 4ee7da073bd147ad797fe3e9bf64d6a2598bc09c

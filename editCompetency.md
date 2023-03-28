@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: Edit Competency
@@ -15,3 +16,6 @@ parent: Competency Constructor Help
 - Documentation
 - Employability
 - Notes
+=======
+
+>>>>>>> 4ee7da073bd147ad797fe3e9bf64d6a2598bc09c
